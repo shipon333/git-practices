@@ -1,0 +1,2 @@
+learn git stash commend
+stash notworking
